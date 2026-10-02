@@ -121,4 +121,4 @@ while True:
     # -------------------------
     else:
 
-        print("Invalid choice. Please select 1-5.")
+        print("Invalid choice.")
